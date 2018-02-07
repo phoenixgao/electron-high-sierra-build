@@ -1,5 +1,7 @@
 https://github.com/Microsoft/vscode/issues/35361
+
 https://github.com/electron/electron/issues/10657
+
 https://github.com/electron/electron/pull/10696
 
 # How to use
