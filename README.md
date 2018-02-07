@@ -13,3 +13,7 @@ https://github.com/electron/electron/pull/10696
 <b>Use this at your own risk! </b>
 
 Built by [@primalmotion](https://github.com/primalmotion)
+
+# Note
+
+This will break vscode auto upgrade feature. You will need to manually download every new release and replace the bin, hoping it is still compatible.
