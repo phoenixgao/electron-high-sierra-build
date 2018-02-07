@@ -11,3 +11,5 @@ https://github.com/electron/electron/pull/10696
 4. Make sure its permission is set to 755
 
 <b>Use this at your own risk! </b>
+
+Built by [@primalmotion](https://github.com/primalmotion)
